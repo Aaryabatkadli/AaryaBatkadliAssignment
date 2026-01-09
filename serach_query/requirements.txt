@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-faiss-cpu
-pandas
-openpyxl
-ollama
-numpy
